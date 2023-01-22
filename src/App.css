@@ -144,9 +144,10 @@ a.active {
   margin: 2rem 0;
 }
 
-.writings h4 {
+.writings h3 {
   color: #990606;
   text-decoration: underline;
+  font-weight: 500;
   margin: .7rem 0;
 }
 
